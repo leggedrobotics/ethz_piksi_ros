@@ -1,0 +1,9 @@
+[submodule "dependencies/libsbp_catkin"]
+	path = dependencies/libsbp_catkin
+	url = git@github.com:ethz-asl/libsbp_catkin.git
+[submodule "dependencies/libserialport_catkin"]
+	path = dependencies/libserialport_catkin
+	url = git@github.com:ethz-asl/libserialport_catkin.git
+[submodule "dependencies/libsbp"]
+	path = dependencies/libsbp
+	url = git@github.com:swift-nav/libsbp.git
